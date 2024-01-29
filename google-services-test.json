@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844304391319",
+    "project_id": "expo-analytics-test-c5199",
+    "storage_bucket": "expo-analytics-test-c5199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844304391319:android:a9358984bbd8f1aa905dd2",
+        "android_client_info": {
+          "package_name": "com.cohabi.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhSC-4acm2jMWffurfH2AnwrqLkrQiSQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "expo-test-analytics",
+    "slug": "expo-test-analytics",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "bundleIdentifier": "com.cohabi.ios",
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "./google-services-test.json",
+      "package": "com.cohabi.android",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": ["@react-native-firebase/app"],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
